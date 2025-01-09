@@ -3,9 +3,9 @@
 <h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
 <br>
 
-<img src="https://github.com/Radmila-code/findrecipes/blob/main/src/title.jpg" width="400px" alt="Title photo" />
+<img src="https://github.com/Radmila-code/notbored/blob/main/src/title.jpg" width="400px" alt="Title photo" />
 
-# Find a Recipe Project
+# Find a Fun Idea 🎉
 
 Welcome to the Find a Recipe project repository!
 
@@ -20,12 +20,14 @@ Welcome to the Find a Recipe project repository!
 
 ## Project Overview
 
-**Find a Recipe** is a web app that helps you find and cook delicious dishes. Enter the ingredients you have and the app will suggest recipes you can prepare.
+**Find a Fun Idea** is a web app that helps you find fun things to do when you're bored and out of ideas. Just click on the button and the app will suggest you a new idea for fun! 
 
 ## 🚀 Features 
-- 🔍 Search for recipes by ingredients
-- 📋 List of recipes with detailed instructions
-- ⭐ Ability to save favorite recipes
+
+- 🔄 Generating random ideas for activities
+- 🎨 Changing the color of the text of each tip
+- 🎥 Video background to create an atmospheric interface
+- 💡 Convenient and intuitive controls
 
 ## Installation
 
@@ -33,9 +35,9 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Radmila-code/findrecipes.git
+   git clone https://github.com/Radmila-code/notbored.git
 2. Navigate to the project directory:
-cd findrecipes
+cd notbored
 
 ## Usage
 You can open the index.html file in your web browser to view the project locally. All the images and styles are located in the appropriate directories.
