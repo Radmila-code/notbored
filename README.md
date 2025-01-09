@@ -7,7 +7,7 @@
 
 # Find a Fun Idea 🎉
 
-Welcome to the Find a Recipe project repository!
+Welcome to the Find a Fun Idea project repository!
 
 ## Table of Contents
 
