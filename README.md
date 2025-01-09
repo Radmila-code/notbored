@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">Hi there, I'm <a href="https://radmila-code.glitch.me" target="_blank">Radmila</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/Radmila-code/findrecipes/blob/main/src/title.jpg" width="400px" alt="Title photo" />
 
-## Available Scripts
+# Find a Recipe Project
 
-In the project directory, you can run:
+Welcome to the Find a Recipe project repository!
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. [Project Overview](#project-overview)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project Overview
 
-### `npm test`
+**Find a Recipe** is a web app that helps you find and cook delicious dishes. Enter the ingredients you have and the app will suggest recipes you can prepare.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Features 
+- 🔍 Search for recipes by ingredients
+- 📋 List of recipes with detailed instructions
+- ⭐ Ability to save favorite recipes
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To set up the project locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Radmila-code/findrecipes.git
+2. Navigate to the project directory:
+cd findrecipes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
+You can open the index.html file in your web browser to view the project locally. All the images and styles are located in the appropriate directories.
 
-### `npm run eject`
+## Contributing 
+We welcome contributions to improve the project. If you would like to contribute, please follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  1. Fork the repository.
+  2. Create a new branch with your feature or fix:
+      git checkout -b feature-name
+  3. Commit your changes:
+      git commit -m "Add feature-name"
+  4. Push to the branch:
+      git push origin feature-name
+  5. Open a pull request to the main repository.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License 
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+If you have any questions or need further assistance, feel free to contact us at [chaplygina1983@gmail.com].
